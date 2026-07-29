@@ -13,8 +13,17 @@ namespace miPrimeaAplicacion {
         public Form1() {
             InitializeComponent();
         }
-        private void btnSaludo_Click(object sender, EventArgs e) {
-            MessageBox.Show("Hola Chicos de Progra I, bienvenidos a Progranacion I");
+        private void Form1_Load(object sender, EventArgs e) {
+
+        }
+        private void btnCalcular_Click(object sender, EventArgs e) {
+            double num1, num2, resultado;
+            num1 = Double.Parse(txtNum1.Text); //txtNum1.Text > cadena= "5" => 5.0
+            num2 = Double.Parse(txtNum2.Text);
+
+            resultado = num1 + num2;
+
+            lblRespuesta.Text = "Respuesta: " + resultado.ToString();
         }
     }
 }
