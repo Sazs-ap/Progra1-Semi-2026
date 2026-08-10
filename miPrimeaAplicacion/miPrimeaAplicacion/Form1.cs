@@ -19,24 +19,19 @@ namespace miPrimeaAplicacion {
         private void btnCalcular_Click(object sender, EventArgs e) {
             try {
                 int edad = int.Parse(txtEdad.Text);
-                if (edad < 0) {
-                    lblRespuesta.Text = "Edad no valida";
-                } else if (edad <= 2) {
-                    lblRespuesta.Text = "Eres un bebe";
-                } else if (edad < 12) {
-                    lblRespuesta.Text = "Eres un niño";
-                } else if (edad <= 17) {
-                    lblRespuesta.Text = "Eres un adolescente";
-                } else if (edad < 65) {
-                    lblRespuesta.Text = "Eres un adulto";
-                } else if (edad <= 80) {
-                    lblRespuesta.Text = "Eres un adulto mayor";
-                } else if (edad <= 130) {
-                    lblRespuesta.Text = "Larga vidad";
-                } else {
-                    lblRespuesta.Text = "Edad no valida";
-                }
-            }catch(Exception) {
+                String msg = "Ingresa tu edad";
+
+                //if ternario
+                msg = edad < 0 ? "Edad no valida" : 
+                    edad <= 2 ? "Eres un bebe" : 
+                    edad < 12 ? "Eres un niño" : 
+                    edad <= 17 ? "Eres un adolescente" : 
+                    edad < 65 ? "Eres un adulto" : 
+                    edad <= 80 ? "Eres un adulto mayor" : 
+                    edad <= 130 ? "Larga vidad" : "Edad no valida";
+
+                lblRespuesta.Text = msg;
+            } catch(Exception) {
                 lblRespuesta.Text = "Por favo ingrese la edad en numero entero";
             }
         }
