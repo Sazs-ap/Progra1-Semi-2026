@@ -17,64 +17,24 @@ namespace miPrimeaAplicacion {
 
         }
         private void btnCalcular_Click(object sender, EventArgs e) {
-            //Tarea: Agrega la opcion de modulo, obtener el residuo de la division de num1 entre num2
-
-            double num1 =0, num2=0, resultado=0, indexOpcion=0;
-            num1 = Double.Parse(txtNum1.Text); //txtNum1.Text > cadena= "5" => 5.0
-            num2 = Double.Parse(txtNum2.Text);
-
-            /*if( rdbSuma.Checked) {
-                resultado = num1 + num2;
+            int edad = int.Parse(txtEdad.Text);
+            if (edad < 0) {
+                lblRespuesta.Text = "Edad no valida";
+            } else if (edad <=2) {
+                lblRespuesta.Text = "Eres un bebe";
+            } else if(edad<12){
+                lblRespuesta.Text = "Eres un niño";
+            }else if (edad <= 17) {
+                lblRespuesta.Text = "Eres un adolescente";
+            }else if (edad < 65) {
+                lblRespuesta.Text = "Eres un adulto";
+            }else if (edad <= 80) {
+                lblRespuesta.Text = "Eres un adulto mayor";
+            }else if (edad <= 130) {
+                lblRespuesta.Text = "Larga vidad";
+            } else {
+                lblRespuesta.Text = "Edad no valida";
             }
-            if (rdbResta.Checked) {
-                resultado = num1 - num2;
-            }
-            if (rdbMultiplicacion.Checked) {
-                resultado = num1 * num2;
-            }
-            if (rdbDivision.Checked) {
-                resultado = num1 / num2;
-            }
-            if (rdbExponente.Checked) {
-                resultado = Math.Pow(num1, num2);//elevar num1 a la potencia num2
-            }
-            if (rdbRaiz.Checked) {
-                resultado = Math.Pow(num1, 1/num2);//raiz num2 de num1
-            }
-            if (rdbFactorial.Checked) { //5*4*3*2*1=120
-                resultado=1;
-                for (int i = 1; i <= num1; i++) {
-                    resultado = resultado*i;
-                }
-            }*/
-            indexOpcion = cboOpciones.SelectedIndex;
-            switch (indexOpcion) {
-                case 0: //Suma
-                    resultado = num1 + num2;
-                    break;
-                case 1://Resta
-                    resultado = num1 - num2;
-                    break;
-                case 2://Multiplicacion
-                    resultado = num1 * num2;
-                    break;
-                case 3://Division
-                    resultado = num1 / num2;
-                    break;
-                case 4://Exponente
-                    resultado = Math.Pow(num1, num2);
-                    break;
-                case 5://Raiz
-                    resultado = Math.Pow(num1, 1 / num2);
-                    break;
-                case 6://Factorial
-                    resultado = 1;
-                    for (int i = 1; i <= num1; i++) {
-                        resultado = resultado * i;
-                    }
-                    break;
-            }
-            lblRespuesta.Text = "Respuesta: " + Math.Round(resultado, 4).ToString();
         }
     }
 }
