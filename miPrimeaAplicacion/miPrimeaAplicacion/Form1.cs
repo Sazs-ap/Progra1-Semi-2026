@@ -20,10 +20,10 @@ namespace miPrimeaAplicacion {
             try {
                 int tabla = int.Parse(txtTabla.Text), i=1;
                 String msg = "";
-                while (i <= 10) {
+                do {
                     msg += $"{tabla} x {i} = {tabla * i}\n";
                     i++; // i= i+1
-                }
+                } while (i <= 10);
                 lblRespuesta.Text = msg;
             } catch(Exception) {
                 lblRespuesta.Text = "Por favo ingrese la edad en numero entero";
