@@ -23,33 +23,33 @@
         /// el contenido de este método con el editor de código.
         /// </summary>
         private void InitializeComponent() {
-            this.lblEdad = new System.Windows.Forms.Label();
-            this.txtEdad = new System.Windows.Forms.TextBox();
+            this.lblTabla = new System.Windows.Forms.Label();
+            this.txtTabla = new System.Windows.Forms.TextBox();
             this.btnCalcular = new System.Windows.Forms.Button();
             this.lblRespuesta = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
-            // lblEdad
+            // lblTabla
             // 
-            this.lblEdad.AutoSize = true;
-            this.lblEdad.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblEdad.Location = new System.Drawing.Point(27, 28);
-            this.lblEdad.Name = "lblEdad";
-            this.lblEdad.Size = new System.Drawing.Size(53, 21);
-            this.lblEdad.TabIndex = 0;
-            this.lblEdad.Text = "Edad:";
+            this.lblTabla.AutoSize = true;
+            this.lblTabla.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblTabla.Location = new System.Drawing.Point(27, 28);
+            this.lblTabla.Name = "lblTabla";
+            this.lblTabla.Size = new System.Drawing.Size(55, 21);
+            this.lblTabla.TabIndex = 0;
+            this.lblTabla.Text = "Tabla:";
             // 
-            // txtEdad
+            // txtTabla
             // 
-            this.txtEdad.Location = new System.Drawing.Point(97, 29);
-            this.txtEdad.Name = "txtEdad";
-            this.txtEdad.Size = new System.Drawing.Size(124, 20);
-            this.txtEdad.TabIndex = 1;
+            this.txtTabla.Location = new System.Drawing.Point(97, 29);
+            this.txtTabla.Name = "txtTabla";
+            this.txtTabla.Size = new System.Drawing.Size(124, 20);
+            this.txtTabla.TabIndex = 1;
             // 
             // btnCalcular
             // 
             this.btnCalcular.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnCalcular.Location = new System.Drawing.Point(106, 110);
+            this.btnCalcular.Location = new System.Drawing.Point(31, 103);
             this.btnCalcular.Name = "btnCalcular";
             this.btnCalcular.Size = new System.Drawing.Size(190, 61);
             this.btnCalcular.TabIndex = 2;
@@ -71,11 +71,11 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(431, 208);
+            this.ClientSize = new System.Drawing.Size(449, 194);
             this.Controls.Add(this.lblRespuesta);
             this.Controls.Add(this.btnCalcular);
-            this.Controls.Add(this.txtEdad);
-            this.Controls.Add(this.lblEdad);
+            this.Controls.Add(this.txtTabla);
+            this.Controls.Add(this.lblTabla);
             this.Name = "Form1";
             this.Text = "Calculadora basica";
             this.Load += new System.EventHandler(this.Form1_Load);
@@ -86,8 +86,8 @@
 
         #endregion
 
-        private System.Windows.Forms.Label lblEdad;
-        private System.Windows.Forms.TextBox txtEdad;
+        private System.Windows.Forms.Label lblTabla;
+        private System.Windows.Forms.TextBox txtTabla;
         private System.Windows.Forms.Button btnCalcular;
         private System.Windows.Forms.Label lblRespuesta;
     }
