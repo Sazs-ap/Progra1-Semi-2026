@@ -13,20 +13,20 @@ namespace miPrimeaAplicacion {
         public Form1() {
             InitializeComponent();
         }
+        /*
+         Metros, Cm, Pulgadas, Pies, Varas, Yardas, Km,Millas
+         */
+        Double[] valores = {1, 100, 39.3701, 3.28084, 1.1963, 1.09361, 0.001, 0.000621371};
         private void Form1_Load(object sender, EventArgs e) {
 
         }
         private void btnCalcular_Click(object sender, EventArgs e) {
-            try {
-                int tabla = int.Parse(txtTabla.Text);
-                String msg = "";
-                for(int i=1; i<=10; i++){
-                    msg += $"{tabla} x {i} = {tabla * i}\n";
-                }
-                lblRespuesta.Text = msg;
-            } catch(Exception) {
-                lblRespuesta.Text = "Por favo ingrese la edad en numero entero";
-            }
+            int de = cboDe.SelectedIndex, a = cboA.SelectedIndex;
+            double cantidad = Double.Parse(txtCantidad.Text);
+
+            double respuesta = valores[a] / valores[de] * cantidad;
+
+            lblRespuesta.Text = respuesta.ToString();
         }
     }
 }
