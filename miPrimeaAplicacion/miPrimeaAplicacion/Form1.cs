@@ -14,7 +14,7 @@ namespace miPrimeaAplicacion {
             InitializeComponent();
         }
         /*
-         Metros, Cm, Pulgadas, Pies, Varas, Yardas, Km,Millas
+          Metros, Cm, Pulgadas, Pies, Varas, Yardas, Km,Millas
          */
         Double[] valores = {1, 100, 39.3701, 3.28084, 1.1963, 1.09361, 0.001, 0.000621371};
         private void Form1_Load(object sender, EventArgs e) {
