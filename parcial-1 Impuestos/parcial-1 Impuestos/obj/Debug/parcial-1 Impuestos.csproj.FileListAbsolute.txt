@@ -1,0 +1,11 @@
+C:\Users\anaze\source\repos\Progra1-Semi-2026\parcial-1 Impuestos\parcial-1 Impuestos\bin\Debug\parcial-1 Impuestos.exe.config
+C:\Users\anaze\source\repos\Progra1-Semi-2026\parcial-1 Impuestos\parcial-1 Impuestos\bin\Debug\parcial-1 Impuestos.exe
+C:\Users\anaze\source\repos\Progra1-Semi-2026\parcial-1 Impuestos\parcial-1 Impuestos\bin\Debug\parcial-1 Impuestos.pdb
+C:\Users\anaze\source\repos\Progra1-Semi-2026\parcial-1 Impuestos\parcial-1 Impuestos\obj\Debug\parcial-1 Impuestos.csproj.AssemblyReference.cache
+C:\Users\anaze\source\repos\Progra1-Semi-2026\parcial-1 Impuestos\parcial-1 Impuestos\obj\Debug\parcial_1_Impuestos.Form1.resources
+C:\Users\anaze\source\repos\Progra1-Semi-2026\parcial-1 Impuestos\parcial-1 Impuestos\obj\Debug\parcial_1_Impuestos.Properties.Resources.resources
+C:\Users\anaze\source\repos\Progra1-Semi-2026\parcial-1 Impuestos\parcial-1 Impuestos\obj\Debug\parcial-1 Impuestos.csproj.GenerateResource.cache
+C:\Users\anaze\source\repos\Progra1-Semi-2026\parcial-1 Impuestos\parcial-1 Impuestos\obj\Debug\parcial-1 Impuestos.csproj.CoreCompileInputs.cache
+C:\Users\anaze\source\repos\Progra1-Semi-2026\parcial-1 Impuestos\parcial-1 Impuestos\obj\Debug\parcial-1 Impuestos.exe
+C:\Users\anaze\source\repos\Progra1-Semi-2026\parcial-1 Impuestos\parcial-1 Impuestos\obj\Debug\parcial-1 Impuestos.pdb
+C:\Users\anaze\source\repos\Progra1-Semi-2026\parcial-1 Impuestos\parcial-1 Impuestos\obj\Debug\parcial-1 Impuestos.exe.config
