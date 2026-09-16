@@ -1,0 +1,11 @@
+C:\Users\anaze\source\repos\Progra1-Semi-2026\Sistema estadistico\Sistema estadistico\bin\Debug\Sistema estadistico.exe.config
+C:\Users\anaze\source\repos\Progra1-Semi-2026\Sistema estadistico\Sistema estadistico\bin\Debug\Sistema estadistico.exe
+C:\Users\anaze\source\repos\Progra1-Semi-2026\Sistema estadistico\Sistema estadistico\bin\Debug\Sistema estadistico.pdb
+C:\Users\anaze\source\repos\Progra1-Semi-2026\Sistema estadistico\Sistema estadistico\obj\Debug\Sistema estadistico.csproj.AssemblyReference.cache
+C:\Users\anaze\source\repos\Progra1-Semi-2026\Sistema estadistico\Sistema estadistico\obj\Debug\Sistema_estadistico.Form1.resources
+C:\Users\anaze\source\repos\Progra1-Semi-2026\Sistema estadistico\Sistema estadistico\obj\Debug\Sistema_estadistico.Properties.Resources.resources
+C:\Users\anaze\source\repos\Progra1-Semi-2026\Sistema estadistico\Sistema estadistico\obj\Debug\Sistema estadistico.csproj.GenerateResource.cache
+C:\Users\anaze\source\repos\Progra1-Semi-2026\Sistema estadistico\Sistema estadistico\obj\Debug\Sistema estadistico.csproj.CoreCompileInputs.cache
+C:\Users\anaze\source\repos\Progra1-Semi-2026\Sistema estadistico\Sistema estadistico\obj\Debug\Sistema estadistico.exe
+C:\Users\anaze\source\repos\Progra1-Semi-2026\Sistema estadistico\Sistema estadistico\obj\Debug\Sistema estadistico.pdb
+C:\Users\anaze\source\repos\Progra1-Semi-2026\Sistema estadistico\Sistema estadistico\obj\Debug\Sistema estadistico.exe.config
