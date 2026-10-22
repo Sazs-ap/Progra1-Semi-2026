@@ -1,0 +1,11 @@
+C:\Users\anaze\source\repos\Progral-Semi-2026\Parcial-2-Progra\Parcial-2-Progra\bin\Debug\Parcial-2-Progra.exe.config
+C:\Users\anaze\source\repos\Progral-Semi-2026\Parcial-2-Progra\Parcial-2-Progra\bin\Debug\Parcial-2-Progra.exe
+C:\Users\anaze\source\repos\Progral-Semi-2026\Parcial-2-Progra\Parcial-2-Progra\bin\Debug\Parcial-2-Progra.pdb
+C:\Users\anaze\source\repos\Progral-Semi-2026\Parcial-2-Progra\Parcial-2-Progra\obj\Debug\Parcial-2-Progra.csproj.AssemblyReference.cache
+C:\Users\anaze\source\repos\Progral-Semi-2026\Parcial-2-Progra\Parcial-2-Progra\obj\Debug\Parcial_2_Progra.Properties.Resources.resources
+C:\Users\anaze\source\repos\Progral-Semi-2026\Parcial-2-Progra\Parcial-2-Progra\obj\Debug\Parcial-2-Progra.csproj.GenerateResource.cache
+C:\Users\anaze\source\repos\Progral-Semi-2026\Parcial-2-Progra\Parcial-2-Progra\obj\Debug\Parcial-2-Progra.csproj.CoreCompileInputs.cache
+C:\Users\anaze\source\repos\Progral-Semi-2026\Parcial-2-Progra\Parcial-2-Progra\obj\Debug\Parcial-2-Progra.exe
+C:\Users\anaze\source\repos\Progral-Semi-2026\Parcial-2-Progra\Parcial-2-Progra\obj\Debug\Parcial-2-Progra.pdb
+C:\Users\anaze\source\repos\Progral-Semi-2026\Parcial-2-Progra\Parcial-2-Progra\obj\Debug\Parcial_2_Progra.frmlogin.resources
+C:\Users\anaze\source\repos\Progral-Semi-2026\Parcial-2-Progra\Parcial-2-Progra\obj\Debug\Parcial_2_Progra.frm_usuario.resources
