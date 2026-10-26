@@ -1,0 +1,58 @@
+C:\Users\steve\Downloads\Progra1-Semi-2026-Proyecto-Final (1)\Progra1-Semi-2026-Proyecto-Final\ProyectoFinalSistemaDeRegistroMaferrer\bin\Debug\Database2.mdf
+C:\Users\steve\Downloads\Progra1-Semi-2026-Proyecto-Final (1)\Progra1-Semi-2026-Proyecto-Final\ProyectoFinalSistemaDeRegistroMaferrer\bin\Debug\Database2_log.ldf
+C:\Users\steve\Downloads\Progra1-Semi-2026-Proyecto-Final (1)\Progra1-Semi-2026-Proyecto-Final\ProyectoFinalSistemaDeRegistroMaferrer\bin\Debug\ProyectoFinalSistemaDeRegistroMaferrer.exe.config
+C:\Users\steve\Downloads\Progra1-Semi-2026-Proyecto-Final (1)\Progra1-Semi-2026-Proyecto-Final\ProyectoFinalSistemaDeRegistroMaferrer\bin\Debug\ProyectoFinalSistemaDeRegistroMaferrer.exe
+C:\Users\steve\Downloads\Progra1-Semi-2026-Proyecto-Final (1)\Progra1-Semi-2026-Proyecto-Final\ProyectoFinalSistemaDeRegistroMaferrer\bin\Debug\ProyectoFinalSistemaDeRegistroMaferrer.pdb
+C:\Users\steve\Downloads\Progra1-Semi-2026-Proyecto-Final (1)\Progra1-Semi-2026-Proyecto-Final\ProyectoFinalSistemaDeRegistroMaferrer\obj\Debug\ProyectoFinalSistemaDeRegistroMaferrer.csproj.AssemblyReference.cache
+C:\Users\steve\Downloads\Progra1-Semi-2026-Proyecto-Final (1)\Progra1-Semi-2026-Proyecto-Final\ProyectoFinalSistemaDeRegistroMaferrer\obj\Debug\Incidentes.incidentes.resources
+C:\Users\steve\Downloads\Progra1-Semi-2026-Proyecto-Final (1)\Progra1-Semi-2026-Proyecto-Final\ProyectoFinalSistemaDeRegistroMaferrer\obj\Debug\ProyectoFinalSistemaDeRegistroMaferrer.MENUPRINCIPAL.resources
+C:\Users\steve\Downloads\Progra1-Semi-2026-Proyecto-Final (1)\Progra1-Semi-2026-Proyecto-Final\ProyectoFinalSistemaDeRegistroMaferrer\obj\Debug\ProyectoFinalSistemaDeRegistroMaferrer.frmregistrovt.resources
+C:\Users\steve\Downloads\Progra1-Semi-2026-Proyecto-Final (1)\Progra1-Semi-2026-Proyecto-Final\ProyectoFinalSistemaDeRegistroMaferrer\obj\Debug\ProyectoFinalSistemaDeRegistroMaferrer.frmaportaciones.resources
+C:\Users\steve\Downloads\Progra1-Semi-2026-Proyecto-Final (1)\Progra1-Semi-2026-Proyecto-Final\ProyectoFinalSistemaDeRegistroMaferrer\obj\Debug\ProyectoFinalSistemaDeRegistroMaferrer.frmhabitantes.resources
+C:\Users\steve\Downloads\Progra1-Semi-2026-Proyecto-Final (1)\Progra1-Semi-2026-Proyecto-Final\ProyectoFinalSistemaDeRegistroMaferrer\obj\Debug\ProyectoFinalSistemaDeRegistroMaferrer.frmInicio.resources
+C:\Users\steve\Downloads\Progra1-Semi-2026-Proyecto-Final (1)\Progra1-Semi-2026-Proyecto-Final\ProyectoFinalSistemaDeRegistroMaferrer\obj\Debug\ProyectoFinalSistemaDeRegistroMaferrer.frmNuevaAportacion.resources
+C:\Users\steve\Downloads\Progra1-Semi-2026-Proyecto-Final (1)\Progra1-Semi-2026-Proyecto-Final\ProyectoFinalSistemaDeRegistroMaferrer\obj\Debug\ProyectoFinalSistemaDeRegistroMaferrer.frmReportes.resources
+C:\Users\steve\Downloads\Progra1-Semi-2026-Proyecto-Final (1)\Progra1-Semi-2026-Proyecto-Final\ProyectoFinalSistemaDeRegistroMaferrer\obj\Debug\ProyectoFinalSistemaDeRegistroMaferrer.Properties.Resources.resources
+C:\Users\steve\Downloads\Progra1-Semi-2026-Proyecto-Final (1)\Progra1-Semi-2026-Proyecto-Final\ProyectoFinalSistemaDeRegistroMaferrer\obj\Debug\ProyectoFinalSistemaDeRegistroMaferrer.csproj.GenerateResource.cache
+C:\Users\steve\Downloads\Progra1-Semi-2026-Proyecto-Final (1)\Progra1-Semi-2026-Proyecto-Final\ProyectoFinalSistemaDeRegistroMaferrer\obj\Debug\ProyectoFinalSistemaDeRegistroMaferrer.csproj.CoreCompileInputs.cache
+C:\Users\steve\Downloads\Progra1-Semi-2026-Proyecto-Final (1)\Progra1-Semi-2026-Proyecto-Final\ProyectoFinalSistemaDeRegistroMaferrer\obj\Debug\ProyectoFinalSistemaDeRegistroMaferrer.exe
+C:\Users\steve\Downloads\Progra1-Semi-2026-Proyecto-Final (1)\Progra1-Semi-2026-Proyecto-Final\ProyectoFinalSistemaDeRegistroMaferrer\obj\Debug\ProyectoFinalSistemaDeRegistroMaferrer.pdb
+C:\Users\anaze\source\repos\conversor\Progra1-Semi-2026-Proyecto-Final (1)\Progra1-Semi-2026-Proyecto-Final\ProyectoFinalSistemaDeRegistroMaferrer\bin\Debug\Database2.mdf
+C:\Users\anaze\source\repos\conversor\Progra1-Semi-2026-Proyecto-Final (1)\Progra1-Semi-2026-Proyecto-Final\ProyectoFinalSistemaDeRegistroMaferrer\bin\Debug\Database2_log.ldf
+C:\Users\anaze\source\repos\conversor\Progra1-Semi-2026-Proyecto-Final (1)\Progra1-Semi-2026-Proyecto-Final\ProyectoFinalSistemaDeRegistroMaferrer\bin\Debug\ProyectoFinalSistemaDeRegistroMaferrer.exe.config
+C:\Users\anaze\source\repos\conversor\Progra1-Semi-2026-Proyecto-Final (1)\Progra1-Semi-2026-Proyecto-Final\ProyectoFinalSistemaDeRegistroMaferrer\bin\Debug\ProyectoFinalSistemaDeRegistroMaferrer.exe
+C:\Users\anaze\source\repos\conversor\Progra1-Semi-2026-Proyecto-Final (1)\Progra1-Semi-2026-Proyecto-Final\ProyectoFinalSistemaDeRegistroMaferrer\bin\Debug\ProyectoFinalSistemaDeRegistroMaferrer.pdb
+C:\Users\anaze\source\repos\conversor\Progra1-Semi-2026-Proyecto-Final (1)\Progra1-Semi-2026-Proyecto-Final\ProyectoFinalSistemaDeRegistroMaferrer\obj\Debug\ProyectoFinalSistemaDeRegistroMaferrer.csproj.AssemblyReference.cache
+C:\Users\anaze\source\repos\conversor\Progra1-Semi-2026-Proyecto-Final (1)\Progra1-Semi-2026-Proyecto-Final\ProyectoFinalSistemaDeRegistroMaferrer\obj\Debug\Incidentes.incidentes.resources
+C:\Users\anaze\source\repos\conversor\Progra1-Semi-2026-Proyecto-Final (1)\Progra1-Semi-2026-Proyecto-Final\ProyectoFinalSistemaDeRegistroMaferrer\obj\Debug\ProyectoFinalSistemaDeRegistroMaferrer.MENUPRINCIPAL.resources
+C:\Users\anaze\source\repos\conversor\Progra1-Semi-2026-Proyecto-Final (1)\Progra1-Semi-2026-Proyecto-Final\ProyectoFinalSistemaDeRegistroMaferrer\obj\Debug\ProyectoFinalSistemaDeRegistroMaferrer.frmregistrovt.resources
+C:\Users\anaze\source\repos\conversor\Progra1-Semi-2026-Proyecto-Final (1)\Progra1-Semi-2026-Proyecto-Final\ProyectoFinalSistemaDeRegistroMaferrer\obj\Debug\ProyectoFinalSistemaDeRegistroMaferrer.frmaportaciones.resources
+C:\Users\anaze\source\repos\conversor\Progra1-Semi-2026-Proyecto-Final (1)\Progra1-Semi-2026-Proyecto-Final\ProyectoFinalSistemaDeRegistroMaferrer\obj\Debug\ProyectoFinalSistemaDeRegistroMaferrer.frmhabitantes.resources
+C:\Users\anaze\source\repos\conversor\Progra1-Semi-2026-Proyecto-Final (1)\Progra1-Semi-2026-Proyecto-Final\ProyectoFinalSistemaDeRegistroMaferrer\obj\Debug\ProyectoFinalSistemaDeRegistroMaferrer.frmInicio.resources
+C:\Users\anaze\source\repos\conversor\Progra1-Semi-2026-Proyecto-Final (1)\Progra1-Semi-2026-Proyecto-Final\ProyectoFinalSistemaDeRegistroMaferrer\obj\Debug\ProyectoFinalSistemaDeRegistroMaferrer.frmNuevaAportacion.resources
+C:\Users\anaze\source\repos\conversor\Progra1-Semi-2026-Proyecto-Final (1)\Progra1-Semi-2026-Proyecto-Final\ProyectoFinalSistemaDeRegistroMaferrer\obj\Debug\ProyectoFinalSistemaDeRegistroMaferrer.frmReportes.resources
+C:\Users\anaze\source\repos\conversor\Progra1-Semi-2026-Proyecto-Final (1)\Progra1-Semi-2026-Proyecto-Final\ProyectoFinalSistemaDeRegistroMaferrer\obj\Debug\ProyectoFinalSistemaDeRegistroMaferrer.Properties.Resources.resources
+C:\Users\anaze\source\repos\conversor\Progra1-Semi-2026-Proyecto-Final (1)\Progra1-Semi-2026-Proyecto-Final\ProyectoFinalSistemaDeRegistroMaferrer\obj\Debug\ProyectoFinalSistemaDeRegistroMaferrer.csproj.GenerateResource.cache
+C:\Users\anaze\source\repos\conversor\Progra1-Semi-2026-Proyecto-Final (1)\Progra1-Semi-2026-Proyecto-Final\ProyectoFinalSistemaDeRegistroMaferrer\obj\Debug\ProyectoFinalSistemaDeRegistroMaferrer.csproj.CoreCompileInputs.cache
+C:\Users\anaze\source\repos\conversor\Progra1-Semi-2026-Proyecto-Final (1)\Progra1-Semi-2026-Proyecto-Final\ProyectoFinalSistemaDeRegistroMaferrer\obj\Debug\ProyectoFinalSistemaDeRegistroMaferrer.exe
+C:\Users\anaze\source\repos\conversor\Progra1-Semi-2026-Proyecto-Final (1)\Progra1-Semi-2026-Proyecto-Final\ProyectoFinalSistemaDeRegistroMaferrer\obj\Debug\ProyectoFinalSistemaDeRegistroMaferrer.pdb
+C:\Users\anaze\source\repos\0\ProyectoFinalSistemaDeRegistroMaferrer\bin\Debug\Database2.mdf
+C:\Users\anaze\source\repos\0\ProyectoFinalSistemaDeRegistroMaferrer\bin\Debug\Database2_log.ldf
+C:\Users\anaze\source\repos\0\ProyectoFinalSistemaDeRegistroMaferrer\bin\Debug\ProyectoFinalSistemaDeRegistroMaferrer.exe.config
+C:\Users\anaze\source\repos\0\ProyectoFinalSistemaDeRegistroMaferrer\bin\Debug\ProyectoFinalSistemaDeRegistroMaferrer.exe
+C:\Users\anaze\source\repos\0\ProyectoFinalSistemaDeRegistroMaferrer\bin\Debug\ProyectoFinalSistemaDeRegistroMaferrer.pdb
+C:\Users\anaze\source\repos\0\ProyectoFinalSistemaDeRegistroMaferrer\obj\Debug\ProyectoFinalSistemaDeRegistroMaferrer.csproj.AssemblyReference.cache
+C:\Users\anaze\source\repos\0\ProyectoFinalSistemaDeRegistroMaferrer\obj\Debug\Incidentes.incidentes.resources
+C:\Users\anaze\source\repos\0\ProyectoFinalSistemaDeRegistroMaferrer\obj\Debug\ProyectoFinalSistemaDeRegistroMaferrer.MENUPRINCIPAL.resources
+C:\Users\anaze\source\repos\0\ProyectoFinalSistemaDeRegistroMaferrer\obj\Debug\ProyectoFinalSistemaDeRegistroMaferrer.frmregistrovt.resources
+C:\Users\anaze\source\repos\0\ProyectoFinalSistemaDeRegistroMaferrer\obj\Debug\ProyectoFinalSistemaDeRegistroMaferrer.frmaportaciones.resources
+C:\Users\anaze\source\repos\0\ProyectoFinalSistemaDeRegistroMaferrer\obj\Debug\ProyectoFinalSistemaDeRegistroMaferrer.frmhabitantes.resources
+C:\Users\anaze\source\repos\0\ProyectoFinalSistemaDeRegistroMaferrer\obj\Debug\ProyectoFinalSistemaDeRegistroMaferrer.frmInicio.resources
+C:\Users\anaze\source\repos\0\ProyectoFinalSistemaDeRegistroMaferrer\obj\Debug\ProyectoFinalSistemaDeRegistroMaferrer.frmNuevaAportacion.resources
+C:\Users\anaze\source\repos\0\ProyectoFinalSistemaDeRegistroMaferrer\obj\Debug\ProyectoFinalSistemaDeRegistroMaferrer.frmReportes.resources
+C:\Users\anaze\source\repos\0\ProyectoFinalSistemaDeRegistroMaferrer\obj\Debug\ProyectoFinalSistemaDeRegistroMaferrer.Properties.Resources.resources
+C:\Users\anaze\source\repos\0\ProyectoFinalSistemaDeRegistroMaferrer\obj\Debug\ProyectoFinalSistemaDeRegistroMaferrer.csproj.GenerateResource.cache
+C:\Users\anaze\source\repos\0\ProyectoFinalSistemaDeRegistroMaferrer\obj\Debug\ProyectoFinalSistemaDeRegistroMaferrer.csproj.CoreCompileInputs.cache
+C:\Users\anaze\source\repos\0\ProyectoFinalSistemaDeRegistroMaferrer\obj\Debug\ProyectoFinalSistemaDeRegistroMaferrer.exe
+C:\Users\anaze\source\repos\0\ProyectoFinalSistemaDeRegistroMaferrer\obj\Debug\ProyectoFinalSistemaDeRegistroMaferrer.pdb
+C:\Users\anaze\source\repos\0\ProyectoFinalSistemaDeRegistroMaferrer\obj\Debug\ProyectoFinalSistemaDeRegistroMaferrer.frmIniciarsesion.resources
